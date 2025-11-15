@@ -1,0 +1,7 @@
+body { font-family: Arial; margin: 32px; background: #fafafa; }
+h1 { font-size: 28px; margin-bottom: 20px; }
+button { padding: 10px 16px; margin-right: 10px; cursor: pointer; }
+#message { margin-top: 10px; font-weight: bold; color: red; }
+table { border-collapse: collapse; width: 100%; margin-top: 20px; background: #fff; }
+th, td { padding: 12px; border: 1px solid #ddd; }
+img { width: 42px; height: 42px; border-radius: 50%; }
